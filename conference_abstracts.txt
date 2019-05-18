@@ -1,0 +1,84 @@
+Hermens, F. & Gielen, S. (2002). Visual and haptic matching of visually presented lines. Poster presented at the EuroConference and EBBS workshop: Cognitive and Neural Mechanisms of Visuomotor Control, La Londe (France).
+Scharnowski, F., Hermens, F., Herzog, M.H. (2004). Time Will Tell: The Temporal Order of Events Determines Feature Integration, TWK: 8th Tübingen Perception Conference.
+Herzog, M.H. & Hermens, F. (2005). Visuelle Maskierung: feedforward oder rekurrent? Tagung experimentell arbeitender Psychologen.
+Hermens, F., Luksys, G., Gerstner, W., & Herzog, M. H. (2005). Visual backward masking: Feed-forward or recurrent? [Abstract]. Journal of Vision, 5(8), 764a.
+Hermens, F. & Herzog, M.H. (2005). A 2D Wilson-Cowan type model of visual masking. Poster presented at the Ninth International Conference on Cognitive and Neural Systems, Boston (MA, USA).
+Hermens, F., Sharikadze, M., & Herzog, M.H. (2005). Visual backward masking: Effects of mask homogeneity. Perception, 34s, 107.
+Scharnowski, F., Hermens, F., & Herzog, M.H. (2005). Why the temporal order of events determines feature integration. Perception, 34s, 129.
+Hermens, F., Dombrowe, I. & Herzog, M.H. (2005). What determines the strength of a mask? 10th winter conference of the Dutch Psychonomic Society.
+Dombrowe, I., Hermens, F. & Herzog, M.H. (2005). The role of spatial layout in visual masking.10th winter conference of the Dutch Psychonomic Society.
+Herzog, M.H., Hermens, F. & Saarela, T. (2006). Grouping and contextual modulation. Tagung experimentell arbeitender Psychologen.
+Ernst, U., Hermens, F. & Eurich, C. (2006). Understanding masking by analysing the spatio-temporal dynamics of cortical network models. Workshop on "Visual masking and the dynamics of vision and consciousness", Delmenhorst, Germany.
+Hermens, F., Scharnowski, F., & Herzog, M.H. (2006). Visual Grouping: Temporal and Spatial Interactions. Dag van de Perceptie, Soesterberg (The Netherlands).
+Hermens F., Scharnowski F., Herzog M.H. (2007). Feature integration independent of awareness. Blinks of the Mind Workshop, Amsterdam (The Netherlands).
+Scharnowski F., Rüter J., Jolij J., Hermens F., Kammer T., Herzog M.H. (2007). Transcranial Magnetic Stimulation (TMS) of early visual cortex reveals a window of integration of substantial duration, Annual Meeting of the Vision Sciences Society, Sarasota (Florida). 
+Rüter, J., Scharnowski, F., Jolij, J., Hermens, F., Kammer, T., Herzog, M.H. (2007). Transcranial Magnetic Stimulation of Early Visual Cortex Reveals a Window of Integration of Substantial Duration. 4th Annual Meeting of the Lemanic Neuroscience Programs, September 11-15, Les Diablerets, Switzerland.
+Hermens, F. & Zanker, J. (2007). On Motion Illusions in Static Op Art Patterns. 11th winter conference of the Dutch Psychonomic Society. 
+Herzog, M.H., Hermens, F., Francis, G. (2008). Modeling both spatial and temporal aspects of visual microgenesis. XXIX International Congress of Psychology, Berlin, Germany.
+Zanker, J.M., Hermens, F. & Walker, R. (2008). What Determines the Strength of Motion Illusions in Op Art paintings? Perception, 37, ECVP Abstract Supplement, page 70.
+Hermens, F., Walker, R., Zanker, J .M. (2008). What can we learn from micro-saccades? Perception, 37,  ECVP Abstract Supplement, page 150.
+Walker, R. & Hermens, F. (2009). How automatic is gaze cueing? 15th European Conference on Eye Movements.
+Walker, R., Hermens, F., & Sumner, P. (2009). Inhibition revealed by saccade curvature and masked primes: Is it the same mechanism? Perception, 38, ECVP Abstract Supplement, page 174.
+Hermens, F. & Walker, R. (2009). Investigating the automaticity of gaze cueing: A saccade curvature analysis. Perception, 38, ECVP Abstract Supplement, page 76.
+Hermens, F. & Walker, R. (2009). What determines the direction of microsaccades? Perception, 36, Thirteenth AVA Christmas meeting, page 276.
+Hermens, F. & Walker, R. (2010). The effects of social cues on when and where we look. Rank Prize mini-Symposium on eye movements: What determines when and where we look?
+Hermens, F. & Walker, R. (2010). The effects of stimulus onsets and offsets on the global and remote distractor effects. AVA Easter Meeting.
+Hermens, F., Sumner, P. & Walker, R. (2010). Inhibition of masked primes: A comparison between response time and saccade curvature measures. Warwick Workshop on Motor Priming and Cognitive Control. 
+Hermens, F. & Walker, R. (2010). Do you look where I look? An investigation of attention shifts and automatic response preparation following dynamic social and non-social cues. ECVP2010.
+Hermens, F. & Zanker, J.M. (2010). Looking at Op Art: Gaze stability and motion illusions. Art & Perception Conference (Brussels, Belgium).
+Hermens, F. & Walker, R. (2011). The influence of social and symbolic cues on observers’ gaze behavior. Applied Vision Association meeting.
+Stewart, N., Hermens, F., & Matthews, W. (2011). Eye tracking of risky choices. 23rd Subjective Probability, Utility, and Decision Making conference. 
+Hermens, F.,  Panis, S., & Wagemans, J. (2011). Survival analysis reveals separate attentional selection and grouping effects of contextual elements. Perception 40s, 67.
+Van Humbeeck, N., Hermens, F., & Wagemans, J. (2011). Eye movement strategies during contour integration. Perception 40s, 192.
+Evers, K., De Graef,P., Hermens, F., Noens, I., Steyaert, J. & Wagemans, J. (2011). Viewing patterns and social-emotional insight in dynamic social scenes in children with Autism Spectrum Disorder (ASD). 16h European Conference on Eye Movements.
+Hermens, F., Ghose, T. & Wagemans, J. (2011). Influences of perceptual grouping and top-down processes on saccade amplitudes. 2011 Winter Conference on Cognition, Brain, and Behaviour from the Dutch Psychonomics Society (NVP).
+Hermens, F. (2012). The site of interference in the saccadic Stroop task. Meeting of the British Oculomotor Group.
+Ghose, T., Hermens, F. & Wagemans, J. (2012). The effects of perceptual grouping on saccadic eye movements. VSS conference.
+Evers, K., Hermens. F., Noens, I.L.J., Steyaert, J. & Wagemans, J. (2012). Combining Viewing Patterns and Socio-Emotional Insight Questions in Dynamic Social Scenes in Children with Autism Spectrum Disorder (ASD). IMFAR 2012.
+Hermens, F., Loos, R. & Wagemans, J. (2012). An exploration of eye movements when reading texts with atypical spatial layouts. Scottish Vision Group meeting.
+Dewolf, T., Van Dooren, W., Hermens, F., Verschaffel, L. (2012). Do students look at illustrations when solving mathematical word problems? An eye tracking study. Expert meeting on Mathematical Thinking and Learning. Leuven, 10 February 2012.
+Dewolf, T., Van Dooren, W., Hermens, F., Verschaffel, L. (2012). Students’ eye movements when solving mathematical word problems together with illustrations. EARLI SIG 2 Comprehension of Text and Graphics. Grenoble, France, 29-31 August 2012.
+Manassi, M., Hermens, F., Francis, G., & Herzog, M.H. (2012). When the picture is complete, crowding disappears, and grouping rules. VSS Conference.
+Ernst, U., Van Humbeeck, N., Schmitt, N., Hermens, F. & Wagemans, J. (2012). Predicting Eye Movements in a Contour Detection Task. CNS2012.
+Clarke, A., Herzog, M.H. &  Hermens, F. (2012). How Recurrent Dynamics Explain Crowding. VSS conference.
+Ernst, U., Van Humbeeck, N., Schmitt, N., Hermens, F. & Wagemans, J. (2012). Predicting Eye Movements in a Contour Detection Task. ECVP2012.
+Ghose, T., Hermens, F. & Wagemans, J. (2012). The influence of perceptual grouping by proximity and good continuation on saccadic eye movements. ECVP2012.
+Hermens, F. & Walker, R. (2012). Investigating inhibition of return for dynamic social cues: Comparing eye movements and manual responses. Optimizing performance in dynamic environments Conference (Amsterdam).
+Hermens, F. & Walker, R. (2012). A near distractor effect for stimulus offsets. AVA Meeting (London).
+Evers, K., Hermens, F., Noens, I., Steyaert, J., Wagemans, J. (2013). Combining viewing patterns and socio-emotional insight questions in dynamic social scenes in children with Autism Spectrum Disorder (ASD). International Meeting for Autism Research (IMFAR 2012). Toronto (Canada), 17-19 May 2012.
+Evers, K., Hermens, F., Steyaert, J., Noens, I., Wagemans, J. (2013). Eye-movement patterns and social insight in children with an Autism Spectrum Disorder when watching TV soaps. International Meeting for Autism Research (IMFAR). San Sebastian (Spain), 2-4 May 2013.
+Evers, K., Hermens, F., De Graef, P.,  Steyaert, J., Noens, I., Wagemans, J. (2013).Relationship between eye-movement patterns and social understanding in children with an autism spectrum disorder (ASD) when watching soaps. M.M. Delacroix Workshop on Novel methods and technologies in Autism.
+Dewolf, T., Van Dooren, W., Hermens, F., Verschaffel, L. (2013). Mathematical word problem solving and the role of external representations. An analysis of students' eye movements. Conference of the Society for Research in Child Development (SRCD) .
+Ghose, T., Hermens, F. & Herzog, M.H. (2013). How the global layout of the mask influences masking strength. Journal of Vision 13 (9), 826. (VSS conference).
+Hermens, F. (2013). Dummy eye measurements of microsaccades. ECVP2013.
+Ghose, T.,  Hermens, F. & Wagemans, J. (2014). Perceptual grouping and saccadic eye-movements. TEAP.
+Hermens, F. & Bell, A. (2014). Comparing response times and error rates in a simultaneous masking paradigm. SVG conference.
+Hermens, F. & Bindemann, M. (2014). Social cueing in peripheral vision. EPS conference Newcastle.
+Zdravkovic, S. & Hermens, F. (2014). Shadows affect eye movements in visual judgment tasks. EUT Edizioni Universita di Trieste.
+Krucien, N., Ryan, M. & Hermens, F. (2014). Using eye-tracking methods to inform decision making processes in Discrete Choice Experiments. Health Economists' Study Group (HESG) Meeting, Glasgow Caledonian University, Glasgow, 23-25 June 2014.
+Ryan, M., Krucien, N. & Hermens, F. (2014). Exploring decision heuristics in discrete choice experiments using eye-tracking methods. Health Economics in the Age of Longevity: a Joint iHEA & ECHE Congress, Trinity College, Dublin, 13-16 July 2014.
+Ryan, M.,Krucien, N. & Hermens, F.  (2014). Using eye-tracking methods to inform decision making processes in discrete choice experiments. Stirling Choice Workshop, University of Stirling, 14 October 2014.
+Ryan, M., Krucien, N. & Hermens, F. (2014). Using eye-tracking methods to inform decision making processes in discrete choice experiments. 1st Meeting of the  International Academy of Health Preference Research, Amsterdam, 8 November 2014.
+Hermens, F. (2015). Fixation instruction influences gaze cueing. EPS meeting Leeds.
+Hermens, F. & Walker, R. (2015). Comparing social and symbolic cues for visual search in clutter. AVA meeting Nottingham.
+Hermens, F. (2015). In risky choice, the eyes do not prefer to stay within the same object. EPS meeting Lincoln.
+Tintarev, N., Green, M., Masthoff, J. & Hermens, F. (2015). Benefits and risks of emphasis adaptation in study workflows. Personalization Approaches in Learning Environments.
+Herzog, M.H., Manassi, M., Hermens, F. & Francis, G. (2015). Crowding, Pattern Recognition, and Recurrent Processing. VSS.
+Spotorno, S., Ferrall, L., Hermens, F., & Jackson, M. (2015). Eye guidance competition between emotional faces during encoding in working memory. ESCOP.
+Hermens, F., Bindemann, M. & Burton, A. M. (2015). Responding to social and symbolic extrafoveal cues: Cue shape trumps social status. ECVP.
+Timmermans, B., Barisic, I., Hermens, F. & Schilbach, L. (2015). The influence of dyadic gaze dynamics on joint and individual difference. ECVP.
+Zdravković, S. & Hermens, F. (2015). Illumination layout of the scene influences visual sampling. ECVP.
+Hermens, F. (2016). Anchoring effects in calorie estimation. EPS meeting Durham.
+Hermens, F. (2016). Social stigmas do not attract or repel observers' gaze. EPS Workshop on Oculomotor Readiness and Covert Attention.
+Ioannidou, F. & Hermens, F. (2016). The central bias in day to day viewing. EPS Workshop on Oculomotor Readiness and Covert Attention.
+Ioannidou, F., Hermens, F. & Hodgson, T.L. (2016). The effects of social and symbolic cues on visual search in children. AVA meeting London.
+Ioannidou, F., Hermens, F. & Hodgson, T.L. (2017). Mind your step: The effects of phone use while walking the stairs on visual attention. Tagung experimentell arbeitender Psychologen (TEAP), Dresden, Germany.
+Hermens, F., Ioannidou, F., & Hodgson, T.L. (2017) The influence of social and symbolic cues on real world visual search. British Oculomotor Group, Cardiff.
+Hermens, F. & Baldry, O. (2017).  Eye movements are linked to sexual preference in a real world preferential looking paradigm. ECEM 2017.
+Hermens, F. & Caie, L. (2017). No link between eye movements and reported eating behaviour in a non-clinical population. ECEM 2017.
+Ioannidou, F., Hermens, F. & Hodgson, T.L. (2017). The effects of symbolic and social cues on gaze behaviour. ECEM 2017.
+Hogue, T. & Hermens, F. (2017). A new method to measure group differences in eye movements towards explicit videos. Trent Resfest 2017.
+Ioannidou, F., Hermens, F. & Hodgson, T.L. (2017). Is attention to social cues in natural scenes automatic? AVA Christmas meeting, London.
+Hermens, F. & Nazarova, J. (2018). Pictorial representation of risk: An eye tracking study. BOMG, Cardiff.
+Ioannidou, F., Hermens, F. & Hodgson, T.L. (2018). Exploring social attention in dynamic scenes. ESSEM.
+Hermens, F., Wyner, A. & Green, M. (2018). Eye movements while comparing sentences. READ, Kaiserslautern.
