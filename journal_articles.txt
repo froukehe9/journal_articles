@@ -1,0 +1,56 @@
+Francis, G. & Hermens. F. (2002). Comment on: Competition for consciousness among visual events: The psychophysics of reentrant visual processes, by Di Lollo, Enns and Rensink (2000). Journal of Experimental Psychology: General, 131, 590-593. [Preprint]
+Hermens, F. & Gielen, S. (2003). Visual and haptic matching of perceived orientations of lines. Perception, 32(2), 235-248.
+Hermens, F. & Gielen, S. (2003). Catching oriented objects. Acta Psychologica, 114 (1), 17-39.
+Francis, G., Rothmayer, M. & Hermens, F. (2004). Analysis and test of laws for backward (metacontrast) masking. Spatial Vision, 17(3), 163-186. [Preprint]
+Hermens, F. & Gielen, S. (2004). Posture-based or trajectory-based movement planning? A comparison of direct and indirect pointing movements. Experimental Brain Research, 159 (3), 340-348.
+Hermens, F., Kappers, A.M.L., & Gielen, S.C.A.M. (2006). The structure of fronto-parallel haptic space is task dependent. Perception & Psychophysics, 68(1), 62-75.
+Herzog, M.H., Ewald, K.R.F., Hermens, F., & Fahle, M. (2006). Reverse feedback induces position and orientation specific changes. Vision Research, 46, 3761-3770.
+Scharnowski, F., Hermens, F., Kammer, T., Ögmen, H., & Herzog, M.H. (2007). Feature fusion reveals slow and fast visual memories. Journal of Cognitive Neuroscience, 19(4), 632-641.
+Hermens, F. & Ernst, U. (2007). Visual backward masking: Modeling spatial and temporal aspects. Advances in Cognitive Psychology, 3(1-2), 93-105.
+Hermens, F. & Herzog, M.H. (2007). The effects of the global structure of the mask in visual backward masking. Vision Research, 47(13), 1790-1797. [ Preprint]
+Scharnowski F., Hermens F., Herzog M.H. (2007). Bloch's Law and the Dynamics of Feature Fusion. Vision Research, 47(18), 2444-2452.
+Herzog, M.H., Scharnowski, F., & Hermens, F. (2007). Long lasting effects of unmasking in a feature fusion paradigm. Psychological Research, 71(6), 653-658.
+Hermens, F., Luksys, G., Gerstner, W., Herzog, M.H., & Ernst, U. (2008). Modeling spatial and temporal aspects of visual backward masking. Psychological Review, 115, 83-100.
+Hermens, F., Scharnowski, F., & Herzog, M.H. (2009). Spatial grouping determines temporal integration. Journal of Experimental Psychology: Human Perception and Performance, 35(3), 595-610. [Preprint]
+Hermens, F., Herzog, M. H. & Francis, G. (2009). Combining simultaneous with temporal masking. Journal of Experimental Psychology: Human Perception & Performance, 35(4), 977-988. [Preprint]
+Scharnowski, F., Rüter, J., Jolij, J., Hermens, F., Kammer, T. & Herzog, M.H. (2009). Long-lasting Modulation of Feature Integration by transcranial magnetic stimulation. Journal of Vision, 9(6), 1-10.
+Dombrowe, I., Hermens, F., Francis, G. & Herzog, M.H. (2009). The roles of mask luminance and perceptual grouping in visual backward masking. Journal of Vision, 9(11). 1-11.
+Hermens, F., Sumner, P., Walker, R. (2010).  Inhibition of masked primes as revealed by saccade curvature.  Vision Research, 50(1), 46-56. [preprint]
+Zanker, J. M., Hermens, F., & Walker, R. (2010). Quantifying and modeling the strength of motion illusions perceived in static patterns. Journal of Vision, 10(2):13, 1-14.
+Hermens, F., Zanker, J.M., Walker, R. (2010).  Microsaccades and preparatory set: A comparison between delayed and immediate, exogenous and endogenous pro- and anti-saccades. Experimental Brain Research, 201 (3), 489-498.
+Hermens, F., Scharnowski, F. & Herzog, M.H. (2010). Automatic grouping of regular structures. Journal of Vision, 10(8):5, 1-16.
+Hermens, F. & Walker, R. (2010). What determines the direction of microsaccades? Journal of Eye Movement Research, 3(4):1, 1-19.
+Hermens, F. & Walker, R. (2010).  Gaze and arrow distractors influence saccade trajectories similarly.  Quarterly Journal of Experimental Psychology, 63(11), 2120-2140. 
+Hermens, F. & Walker, R. (2010). The influence of onsets and offsets on saccade programming. i-Perception, 1, 83-94. 
+Hermens, F. & Zanker, J.M. (2012). Looking at Op Art: Gaze stability and motion illusions. i-Perception, 3(5), 282–304 .
+Hermens, F. & Walker, R. (2012). The site of interference in the saccadic Stroop effect. Vision Research,73, 10-22.
+Ghose, T., Hermens, F. & Herzog, M.H. (2012). How the global layout of the mask influences masking strength. Journal of Vision, 12(13):9.
+Hermens, F. & Walker, R. (2012). Do you look where I look? Attention shifts and response preparation following dynamic social cues. Journal of Eye Movement Research, 5(5):5, 1-11.
+Hermens, F., Ghose, T. & Wagemans, J. (2013). Advance information modulates the global effect even without instruction on where to look. Experimental Brain Research, 226(4), 639-648.
+Panis, S. & Hermens, F. (2014). Time course of spatial contextual interference: Event history analyses of simultaneous masking by nonoverlapping patterns. Journal of Experimental Psychology: Human Perception & Performance, 40(1), 129-144.
+Van Humbeeck, N., Schmitt, N., Hermens, F., Wagemans, J. & Ernst, U.A. (2013). The role of eye movements in a contour detection task. Journal of Vision,13(14):5, 1-19.
+Hermens, F., Flin, R. & Ahmed, I. (2013). Eye movements in surgery: A literature review. Journal of Eye Movement Research, 6(4):4, 1-11.
+Hermens, F.,* Lachmann, T.* & van Leeuwen, C. (2015). Is it really search or just matching? The influence of Goodness, number of stimuli and presentation sequence in same-different tasks. Psychological Research, 79(1), 42-63.
+Misirlisoy, E., Hermens, F., Stavrou, M., Pennells, J. & Walker, R. (2014). Spatial primes produce dissociated inhibitory effects on saccadic latencies and trajectories. Vision Research, 96, 1-7.
+Herzog, M.H., Hermens, F. & Ogmen, H. (2014). Invisibility and interpretation. Frontiers.
+Hermens, F., Kral, D., & Rosenbaum, D.A. (2014). Limits of end-state planning. Acta Psychologica, 148, 148-162.
+Hermens, F. & Bell, A.D. (2014). Speeded classification in simultaneous masking. Journal of Vision, 14(6):6.
+Stewart, N., Hermens, F., & Matthews, W.J. (2016). Eye movements in risky choice. Journal of Behavioral Decision Making, 29(2-3), 116-136.
+Dewolf, T., VanDooren, W., Hermens, F. & Verschaffel, L. (2015). Do students attend to representational illustrations of non-standard mathematical word problems, and, if so, how helpful are they?. Instructional Science, 43(1), 147-171. 
+Hermens, F. (2015). Dummy eye measurements of microsaccades: testing the influence of system noise and head movements on microsaccade detection in a popular video-based eye tracker. Journal of Eye Movement Research, 8 (1), 1-17. 
+Hermens, F. (2015). Fixation instruction influences gaze cueing. Visual Cognition, 23(4), 432-449.
+Manassi, M., Hermens, F., Francis, G. & Herzog, M.H. (2015). Release of crowding by pattern completion. Journal of Vision, 15(8): 16. [online]
+Hermens, F. & Zdravković, S. (2015). Information extraction from shadowed regions in images: An eye movement study. Vision Research, 113, 97-96.
+Hermens, F. & Walker, R. (2016). The influence of social and symbolic cues on observers' gaze behaviour. British Journal of Psychology, 107(3), 484-502.
+Gregory, N., Hermens, F., Facey, R. & Hodgson, T.L. (2016). The developmental trajectory of attentional orienting to socio-biological cues. Experimental Brain Research, 234(6), 1351-1362.
+Ioannidou, F., Hermens, F. & Hodgson, T.L. (2016). The central bias in day-to-day viewing. Journal of Eye Movement Research, 9(6). 
+Pollux, P. M., Hermens, F., & Willmott, A. P. (2016). Age-congruency and contact effects in body expression recognition from point-light displays (PLD). PeerJ, 4, e2796.
+Hermens, F.,  Bindemann, M., & Burton, A.M. (2017). Responding to social and symbolic extrafoveal cues: Cue shape trumps biological relevance. Psychological Research, 81(1), 24-42. 
+Hermens, F. (2017). The effects of social and symbolic cues on visual search: Cue shape trumps biological relevance. Psihologija, 50(2), 117-140.
+Krucien, N., Ryan, M. & Hermens, F. (2017). Visual attention in multi-attributes choices: what can eye-tracking tell us? Journal of Economic Behavior & Organization, 135, 251-267.
+Ioannidou, F., Hermens, F. & Hodgson, T.L. (2017). Mind your step: The effects of mobile phone use on gaze behavior in stair climbing. Journal of Technology in Behavioral Science, 2, 109-120.
+Hermens, F. (2018). The influence of social stigmas on observers’ eye movements. Journal of Articles in Support of the Null Hypothesis. 
+Ryan, M., Krucien, N. & Hermens, F. (2018). The eyes have it: using eye tracking to inform information processing strategies in multi-attributes choices. Health Economics, 27(4), 709-721.
+Hermens, F. (2018). When do arrows start to compete? A developmental mouse-tracking study. Acta Psychologica, 182, 177-188.
+Crosby, F. & Hermens, F. (2018). Does it look safe? An eye tracking study into the visual aspects of fear of crime. Quarterly Journal of Experimental Psychology.
+Hermens, F., Golubickis, M.& MacRae, C.N. (2018). Eye movements while judging faces for trustworthiness and dominance. PeerJ, 6.
